@@ -1,3 +1,3 @@
-# Module 18 - Neural Networks Challenge 1
+# Module 18 - Neural Network Challenge 1
 
 Utilized copilot when writing the code for this challenge
